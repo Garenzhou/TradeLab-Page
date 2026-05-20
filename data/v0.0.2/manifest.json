@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-20T11:15:32.065255+00:00",
+  "version": "v0.0.2",
+  "packages": {
+    "minute-offline-us-v0.0.1-test": {
+      "version": "v0.0.2",
+      "url": "https://garenzhou.github.io/TradeLab-Page/data/v0.0.2/minute-offline-us-v0.0.1-test.zip",
+      "sha256": "079c12c0d8494782c4b870273c82801263b8168cb6d6ab1b92db2e13a9d71ef6"
+    },
+    "minute-offline-us-v0.0.2": {
+      "version": "v0.0.2",
+      "url": "https://garenzhou.github.io/TradeLab-Page/data/v0.0.2/minute-offline-us-v0.0.2.zip",
+      "sha256": "a8eda17a278666ece80cec225a6ff003b75ae21c76fe70b8ced8003df4316369"
+    },
+    "offline-cn-bootstrap": {
+      "version": "v0.0.2",
+      "url": "https://garenzhou.github.io/TradeLab-Page/data/v0.0.2/offline-cn-bootstrap.zip",
+      "sha256": "81e0f1edcd483397cbbae6541268cf2180d6c13dfecc4a3049ce3197349b7abb"
+    },
+    "offline-us-bootstrap": {
+      "version": "v0.0.2",
+      "url": "https://garenzhou.github.io/TradeLab-Page/data/v0.0.2/offline-us-bootstrap.zip",
+      "sha256": "8bb4fe92e2adab433d58fe77b68de2545ba3abcbac8eb648febe5786ef466c3b"
+    }
+  }
+}

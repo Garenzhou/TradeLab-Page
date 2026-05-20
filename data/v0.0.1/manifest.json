@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-20T09:57:09.113146+00:00",
+  "version": "v0.0.1",
+  "packages": {
+    "offline-cn-bootstrap": {
+      "version": "v0.0.1",
+      "url": "https://garenzhou.github.io/TradeLab-Page/data/v0.0.1/offline-cn-bootstrap.zip",
+      "sha256": "81e0f1edcd483397cbbae6541268cf2180d6c13dfecc4a3049ce3197349b7abb"
+    },
+    "offline-us-bootstrap": {
+      "version": "v0.0.1",
+      "url": "https://garenzhou.github.io/TradeLab-Page/data/v0.0.1/offline-us-bootstrap.zip",
+      "sha256": "8bb4fe92e2adab433d58fe77b68de2545ba3abcbac8eb648febe5786ef466c3b"
+    }
+  }
+}
